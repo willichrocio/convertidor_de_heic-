@@ -1,0 +1,15 @@
+{
+  "name": "convertirjpg",
+  "version": "1.0.0",
+  "description": "![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "heic": "^0.0.5",
+    "heic-to-jpg": "^2.1.1"
+  }
+}
